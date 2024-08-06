@@ -1,0 +1,29 @@
+[
+  {
+      "id": 1,
+      "nombre": "Smartphone Galaxy S21",
+      "precio": "$1.119.986",
+      "cantidad_stock": 5,
+      "descripcion": "Pantalla de 6.2 pulgadas, cámara triple y 128GB de almacenamiento.",
+      "imagen_url":"https://cdn.smart-gsm.com/img/picture/big/samsung-galaxy-s21-ultra.jpg"
+  },
+  {
+      "id": 2,
+      "nombre": "iPhone 13",
+      "precio": "$1.399.986",
+      "cantidad_stock": 8,
+      "descripcion": "Pantalla de 6.1 pulgadas, chip A15 Bionic y 128GB de almacenamiento.",
+      "imagen_url": "https://tienda.personal.com.ar/images/720/webp/i_Phone_13_Pro_256_GB_Graphite_73f3e06d1c.png"
+      
+  },
+  {
+      "id": 3,
+      "nombre": "Google Pixel 6",
+      "precio": "$979.986",
+      "cantidad_stock": 7,
+      "descripcion": "Pantalla de 6.4 pulgadas, procesador Google Tensor y 128GB de almacenamiento.",
+        "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcqD586naEsym__MymPSPlwggYsFZLXhBug&s"
+  }
+]
+
+  

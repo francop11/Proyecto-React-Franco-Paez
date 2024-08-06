@@ -1,3 +1,5 @@
+import "./CarWidget.css"
+
 const CartWidget=()=>{
     return(
         <div>
