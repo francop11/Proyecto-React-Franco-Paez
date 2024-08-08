@@ -1,6 +1,11 @@
 import "./Navbar.css";
+// importamos el css de la nav bar
+// importamos el carrito en el componente cartwidget
 import CartWidget from "../CarWidget/CartWidget.jsx";
 
+
+
+// creamos el menu de la aplicacion usando boostrap
 const Navbar=()=>{
     return(
         <header>
@@ -37,4 +42,5 @@ const Navbar=()=>{
     )
 }
 
+// exportamos la nav bar
 export default Navbar

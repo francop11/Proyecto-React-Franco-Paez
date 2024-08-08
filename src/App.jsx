@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
-import ItemCount from './components/ItemCount/ItemCount'
+import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer'
 
 
 
@@ -12,7 +12,8 @@ function App() {
     <>
      <Navbar/>
       <ItemListContainer  greeting={"Bienvenidos a House Gamer"}/>
-      <ItemCount initial={1} stock={10} onAdd={(Number)=>console.log("cantidad agregada ",Number)} />
+      <ItemDetailContainer />
+    
 
     
     </>
